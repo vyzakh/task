@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #1c1819;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+
+  min-height: 100vh;
+  color: #a68b85;
+
+  background-image: url(https://i.imgur.com/CzmE8sy.png);
+  background-size: cover;
+  font-family: Inter, sans-serif;
+}
+
+.reckless {
+  font-family: Reckless Neue;
+}
