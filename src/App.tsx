@@ -5,7 +5,7 @@ function App() {
     <main className="max-w-[932px] pb-8 pt-16 px-10">
       <h1 className="mb-6 md:text-6xl reckless text-4xl text-white">
         Welcome to your <br />
-        home project
+        zoft project
       </h1>
       <p className="text-lg">Here are some ideas how to get started</p>
       <ul className="gap-4 grid items-stretch md:gap-1 md:grid-cols-2 my-12">
